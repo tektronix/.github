@@ -12,7 +12,7 @@ A brief explanation of issue templates and how to use them.
 
 ## Getting Started
 
-If you want to make your own organization wide template, just create a yaml file in this directory that follows [Github's formatting guidelines](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms). You can also use an [existing issue template](https://github.com/tektronix/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.yml) as a starting point.
+If you want to make your own organization wide template, just create a yaml file in this directory that follows [Github's formatting guidelines](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms). You can also use an [existing issue template](https://github.com/tektronix/.github/blob/main/.github/ISSUE_TEMPLATE/bug_report.yml) as a starting point.
 
 ## Usage
 
